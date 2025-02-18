@@ -1,0 +1,39 @@
+{
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-02-17 18:39:04 +1030"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-17 18:43:42 +1030"
+    },
+    "done": true
+  },
+  "heroesexpansion:root": {
+    "criteria": {
+      "tick": "2025-02-17 18:39:05 +1030"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-17 18:43:42 +1030"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "book": "2025-02-17 18:39:04 +1030"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2025-02-17 18:39:04 +1030",
+      "plains": "2025-02-17 18:39:31 +1030"
+    },
+    "done": false
+  }
+}
