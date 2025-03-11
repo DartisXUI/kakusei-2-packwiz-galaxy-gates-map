@@ -8,6 +8,6 @@
    The best solution to this, is to create a new instance of Kakusei 2.
 5. Launch the game as usual.
 6. As you explore, you'll find Loot Chests containing "Tome of the Ancients",
-   which have 8 random Gate Addresses across the Galaxy (from the Overworld,
+   which have a number of random Gate Addresses from across the Galaxy (from the Overworld,
    The Nether & The End and most Advanced Rocketry Worlds).
-7. Will you venture into the unknown and brave the dangers of airless Moons and Inferno Planets?
+7. Will you venture into the unknown and brave the dangers of Airless Moons and Inferno Planets?
