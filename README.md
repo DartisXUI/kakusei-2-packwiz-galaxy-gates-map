@@ -1,4 +1,4 @@
-﻿# kakusei-2-packwiz-galaxy-gates-mkiii
+﻿# kakusei-2-packwiz-galaxy-gates-map
 
 1. Click the Green "Code" Button.
 2. Click on "Download ZIP".
